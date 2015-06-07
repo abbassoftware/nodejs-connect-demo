@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-connect-demo",
+  "version": "1.0.0",
+  "description": "Demo on how to use connect framework for NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "connect": "3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abbassoftware/nodejs-connect-demo.git"
+  },
+  "keywords": [
+    "connect"
+  ],
+  "author": "Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbassoftware/nodejs-connect-demo/issues"
+  },
+  "homepage": "https://github.com/abbassoftware/nodejs-connect-demo"
+}
